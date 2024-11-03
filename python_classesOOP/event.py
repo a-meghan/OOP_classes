@@ -1,3 +1,5 @@
+# Task 2
+
 class Event:
     def __init__(self, name, date):
         self.name = name
